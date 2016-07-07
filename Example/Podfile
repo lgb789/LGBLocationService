@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LGBLocationService_Example' do
+  pod 'LGBLocationService', :path => '../'
+
+  target 'LGBLocationService_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
