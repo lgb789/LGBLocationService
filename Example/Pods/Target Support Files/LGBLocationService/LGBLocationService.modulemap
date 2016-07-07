@@ -1,0 +1,6 @@
+framework module LGBLocationService {
+  umbrella header "LGBLocationService-umbrella.h"
+
+  export *
+  module * { export * }
+}

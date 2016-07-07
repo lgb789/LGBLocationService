@@ -1,0 +1,14 @@
+PODS:
+  - LGBLocationService (0.1.0)
+
+DEPENDENCIES:
+  - LGBLocationService (from `../`)
+
+EXTERNAL SOURCES:
+  LGBLocationService:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LGBLocationService: f556c3076088461a14c32f3eb6fe2c894535007e
+
+COCOAPODS: 0.39.0
